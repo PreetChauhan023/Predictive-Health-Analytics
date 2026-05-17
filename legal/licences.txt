@@ -1,0 +1,26 @@
+Open Source Licences
+Last updated: March 2026
+
+This application is built using the following open-source software:
+
+Streamlit
+Licence: Apache License 2.0
+https://github.com/streamlit/streamlit
+
+Firebase Admin SDK (Python)
+Licence: Apache License 2.0
+https://github.com/firebase/firebase-admin-python
+
+Pyrebase4
+Licence: MIT License
+https://github.com/nhorvath/Pyrebase4
+
+Pandas
+Licence: BSD 3-Clause License
+https://github.com/pandas-dev/pandas
+
+Python
+Licence: PSF License
+https://www.python.org
+
+Full licence texts are available at the respective project repositories linked above.

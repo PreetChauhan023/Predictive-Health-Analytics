@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# API Keys & Secrets
+
+.streamlit/secrets.toml
+
+# Trained ML models (large files, auto-regenerated on first run)
+models_cache/
+
+# User data — private & personal information
+user_registration_data.csv
+chat_history.csv
+data/
+risk_history/
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyd
+*.pyo

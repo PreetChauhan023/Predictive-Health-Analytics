@@ -1,0 +1,23 @@
+Privacy Policy
+Last updated: March 2026
+
+1. Information We Collect
+We collect only the data you provide directly: your name, email address, phone number, date of birth, and health questionnaire responses. We do not collect browsing data, location, or any information beyond what is necessary to provide this service.
+
+2. How We Use Your Data
+Your data is used solely to power your personalised health dashboard. We do not use it for advertising, profiling, or any commercial purpose beyond this application.
+
+3. Data Storage and Security
+All data is stored securely using Firebase (Google Cloud infrastructure). We conduct regular security reviews and apply industry-standard protections to all stored data.
+
+4. Data Sharing
+We do not sell, rent, or share your personal data with any third party under any circumstances.
+
+5. Your Rights
+You have the right to access, correct, or delete your data at any time via the Settings page.
+
+6. Data Retention
+Upon account deletion, all personal data is permanently erased from our systems within 30 days.
+
+7. Contact
+For privacy-related queries, please contact the development team through the application support channel.

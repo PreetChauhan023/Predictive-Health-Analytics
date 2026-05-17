@@ -1,0 +1,23 @@
+Terms of Service
+Last updated: March 2026
+
+1. Acceptance
+By creating an account and using this application, you agree to these Terms of Service in full.
+
+2. Purpose
+This application is provided for personal health tracking purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before making any medical decisions.
+
+3. Account Responsibility
+You are responsible for maintaining the confidentiality of your account credentials. You must not share your account or allow others to access it. You are responsible for all activity that occurs under your account.
+
+4. Acceptable Use
+You agree not to misuse the platform, attempt to access other users' data, reverse-engineer any part of the system, or use the application for any unlawful purpose.
+
+5. Data Accuracy
+The health insights provided are based solely on the information you enter. We are not responsible for outcomes resulting from inaccurate data submitted by you.
+
+6. Termination
+We reserve the right to suspend or terminate accounts found in violation of these terms without prior notice.
+
+7. Changes
+We may update these terms at any time. Continued use of the application constitutes acceptance of any revised terms.

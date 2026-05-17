@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+shap
+groq
+google-generativeai
+streamlit-option-menu
