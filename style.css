@@ -509,3 +509,54 @@ button[data-baseweb="tab"][aria-selected="true"] {
         padding: 6px 8px !important;
     }
 }
+/* ══════════════════════════════════════════════════════
+   STREAMLIT TEXT RESPONSIVE FIXES
+══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+    /* Headings */
+    h1 { font-size: 1.6rem !important; }
+    h2 { font-size: 1.3rem !important; }
+    h3 { font-size: 1.1rem !important; }
+
+    /* Paragraph and label text */
+    p, label, div[data-testid="stText"] {
+        font-size: 13px !important;
+    }
+
+    /* Streamlit markdown text */
+    div[data-testid="stMarkdownContainer"] p {
+        font-size: 13px !important;
+    }
+
+    /* Selectbox and input text */
+    div[data-baseweb="select"] span {
+        font-size: 13px !important;
+    }
+
+    input, textarea {
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    h1 { font-size: 1.3rem !important; }
+    h2 { font-size: 1.1rem !important; }
+    h3 { font-size: 1rem !important; }
+
+    p, label, div[data-testid="stText"] {
+        font-size: 12px !important;
+    }
+
+    div[data-testid="stMarkdownContainer"] p {
+        font-size: 12px !important;
+    }
+
+    div[data-baseweb="select"] span {
+        font-size: 12px !important;
+    }
+
+    input, textarea {
+        font-size: 12px !important;
+    }
+}
