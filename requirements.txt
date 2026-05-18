@@ -8,3 +8,4 @@ shap
 groq
 google-generativeai
 streamlit-option-menu
+PyMuPDF
