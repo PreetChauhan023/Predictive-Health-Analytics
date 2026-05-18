@@ -70,25 +70,25 @@ def page_home():
     st.markdown(f"""
     <div class="kpi-row">
         <div class="kpi">
-            
+            <div class="kpi-icon">🗄️</div>
             <div class="kpi-val">{stats['records']:,}</div>
             <div class="kpi-lbl">Training Records</div>
             <div class="kpi-sub">Global Dataset</div>
         </div>
         <div class="kpi">
-            
+            <div class="kpi-icon">🦠</div>
             <div class="kpi-val">{stats['diseases']}</div>
             <div class="kpi-lbl">Diseases Tracked</div>
             <div class="kpi-sub">Medical Categories</div>
         </div>
         <div class="kpi">
-            
+            <div class="kpi-icon">📍</div>
             <div class="kpi-val">{stats['states']}</div>
             <div class="kpi-lbl">States Covered</div>
             <div class="kpi-sub">Pan-India Analytics</div>
         </div>
         <div class="kpi">
-            
+            <div class="kpi-icon">📊</div>
             <div class="kpi-val">{stats['avg_risk']}%</div>
             <div class="kpi-lbl">Population Risk</div>
             <div class="kpi-sub">Baseline Average</div>
