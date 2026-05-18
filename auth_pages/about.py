@@ -44,28 +44,28 @@ def page_about():
     <div style="background:#112D3B; border:1px solid #2F4F4F; border-radius:14px; padding:24px 28px;">
         <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:20px; text-align:center;">
             <div>
-                <div style="font-size:28px; margin-bottom:8px;"></div>
+                <div style="font-size:28px; margin-bottom:8px;">📋</div>
                 <div style="font-size:13px; font-weight:600; color:#E6F1F5; margin-bottom:6px;">1. Data Collection</div>
                 <div style="font-size:12px; color:#9FB4BE; line-height:1.6;">
                     You enter your health parameters — vitals, lifestyle, medical history, and environmental factors.
                 </div>
             </div>
             <div>
-                <div style="font-size:28px; margin-bottom:8px;"></div>
+                <div style="font-size:28px; margin-bottom:8px;">⚙️</div>
                 <div style="font-size:13px; font-weight:600; color:#E6F1F5; margin-bottom:6px;">2. ML Processing</div>
                 <div style="font-size:12px; color:#9FB4BE; line-height:1.6;">
                     RandomForest models trained on 30,000 records process your inputs and generate predictions.
                 </div>
             </div>
             <div>
-                <div style="font-size:28px; margin-bottom:8px;"></div>
+                <div style="font-size:28px; margin-bottom:8px;">📊</div>
                 <div style="font-size:13px; font-weight:600; color:#E6F1F5; margin-bottom:6px;">3. Risk Scoring</div>
                 <div style="font-size:12px; color:#9FB4BE; line-height:1.6;">
                     A risk score (0–100) is assigned with a Low or Medium classification based on the dataset threshold.
                 </div>
             </div>
             <div>
-                <div style="font-size:28px; margin-bottom:8px;"></div>
+                <div style="font-size:28px; margin-bottom:8px;">💡</div>
                 <div style="font-size:13px; font-weight:600; color:#E6F1F5; margin-bottom:6px;">4. Recommendations</div>
                 <div style="font-size:12px; color:#9FB4BE; line-height:1.6;">
                     Personalised health recommendations and population context help you take preventive action.
